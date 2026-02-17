@@ -1,0 +1,8 @@
+.vscode/
+*.exe
+*.zip
+*.pt
+*.pth
+*.h5
+datasets/
+data/
