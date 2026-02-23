@@ -18,6 +18,4 @@ resources and materials used for the paper on detection of particles by experime
    - Version control with Git
    - Statistical analysis
    
-   ## Next Steps
-   - Week 2: Machine learning fundamentals
-   - Start exploring particle physics concepts
+
