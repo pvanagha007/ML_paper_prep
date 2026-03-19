@@ -15,6 +15,7 @@ resources and materials used for the paper on detection of particles by experime
 
   ## Progress (week 2)
    - ✅ NumPy fundamentals
+   - ✅ Pandas data manipulation
    
    ## Skills Acquired
    - Array operations with NumPy
