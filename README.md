@@ -17,6 +17,7 @@ resources and materials used for the paper on detection of particles by experime
    - ✅ NumPy fundamentals
    - ✅ Pandas data manipulation
    - ✅ Git/GitHub workflows
+   - ✅ Basic data visualization
    
    ## Skills Acquired
    - Array operations with NumPy
