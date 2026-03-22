@@ -15,7 +15,7 @@ resources and materials used for the paper on detection of particles by experime
    
    ## Skills Acquired
    - Array operations with NumPy
-   - Data loading and cleaning with Pandas
+   - Data loading and cleaning with Pandas 
    - Version control with Git
    - Statistical analysis
    
