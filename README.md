@@ -4,7 +4,7 @@ resources and materials used for the paper on detection of particles by experime
 
    
    ## About
-   This repository documents my journey preparing for Google Summer of Code 2027 with CERN-HSF. Will also contain side projects based off of kaggle data sets
+   This repository documents my journey preparing for Google Summer of Code 2027 with CERN-HSF. Will also contain minor side projects based off of kaggle data sets.
    
    ## Progress (week 1)
    - ✅ NumPy fundamentals
